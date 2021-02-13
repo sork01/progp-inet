@@ -1,0 +1,9 @@
+När Viebrapadata släppte en ny version av server slutade klienten att
+fungera för att servern hade ändrat sin meny så att den skrev ut alternativen
+lodrätt på skärmen. Man var tvungen att återgå till den gamla serverversionen.
+Varför slutade klienten att fungera?
+
+Svar:
+    klienten läser bara en rad innan den visar sin prompt. den förväntar sig
+    alltså att samtliga menyalternativ ska finnas på den första raden som kommer
+    från servern efter anslutningen är upprättad.

@@ -1,0 +1,19 @@
+!AccountList
+- !Account
+   name: Mikael
+   balance: 5735
+   cardNr: 1234
+   nextOtp: 21
+   pinCode: 4321
+- !Account
+   name: Robin
+   balance: 4000
+   cardNr: 1235
+   nextOtp: 03
+   pinCode: 4321
+- !Account
+   name: KTH
+   balance: 600000
+   cardNr: 1111
+   nextOtp: 01
+   pinCode: 0000

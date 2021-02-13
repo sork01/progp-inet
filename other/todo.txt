@@ -1,0 +1,23 @@
+krav:
+
+    kommunikationen (protokoll)
+OK      1a: serverdelen kan uppdatera text i klienten
+OK      1b: övriga meddelanden är högst 10 byte
+
+TOFINISH 2: kommenteras och illustreras separat. 
+           bild på data samt ett eller fler exempelflöden
+
+    systemet
+OK      1: kunna logga in med kortnummer och sifferkod
+OK      2: vid varje uttag krävs OTP
+OK      3: banken hanterar flera användare. minst tre användare i systemet vid redovisning.
+OK      4: menyn som skrivs ut ska innehålla ett fält på
+           max 80 tecken för välkomstmsg / reklam / nyheter.
+           
+           vi täcker detta krav genom att skriva i specen
+           att klienten ska skriva ut ett visst textid varje
+           gång menyn skrivs ut, och säger att det är max 80 tecken i textid:t.
+OK      5: banken ska kunna byta text i välkomstmsg utan att starta
+           om server eller klient
+OK      6: klienten ska kunna byta språk
+OK      7: koden kommenterad bra

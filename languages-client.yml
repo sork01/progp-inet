@@ -1,0 +1,64 @@
+!ATMClient$LanguageCollection
+Svenska: !ATMClient$Language
+   17: "Tryck ned en tangent f\u00f6r att forts\u00e4tta"
+   15: "Mata in din eng\u00e5ngskod:"
+   16: "Byt spr\u00e5k"
+   13: 'Mata in ditt kortnummer:'
+   14: 'Mata in din PIN-kod:'
+   11: Logga ut
+   12: Du har loggats ut
+   3: "Ins\u00e4ttning"
+   2: Saldo
+   1: "Glada tider p\u00e5 banken! Kapitalismens h\u00e4xm\u00e4stare!"
+   10: "Otillr\u00e4ckligt saldo"
+   0: 
+   7: Hur mycket vill du ta ut?
+   6: "Hur mycket vill du s\u00e4tta in?"
+   5: "Ditt nuvarande saldo \u00e4r:"
+   4: Uttag
+   9: "Ett fel uppstod vid hanteringen av din beg\u00e4ran."
+   8: Logga in
+"R\u00f6varspr\u00e5k": !ATMClient$Language
+   17: "Totrorycockok nonedod enon totanongogenontot fof\u00f6ror atottot foforortotsos\u00e4tottota"
+   15: "Momatota inon dodinon enongog\u00e5nongogsoskokodod:"
+   16: "Bobytot sospopror\u00e5kok"
+   13: 'Momatota inon doditottot kokorortotnonumommomeror:'
+   14: 'Momatota inon dodinon POPINON-kokodod:'
+   11: Lologoggoga utot
+   12: Dodu hoharor lologoggogatotsos utot
+   3: "Inonsos\u00e4tottotnoninongog"
+   2: Sosaloldodo
+   1: "Vov\u00e4lolkokomommomenon totilollol bobanonkokenon"
+   10: "Ototilollolror\u00e4cockokloligogtot sosaloldodo"
+   0: 
+   7: Hohuror momycockoketot vovilollol dodu tota utot?
+   6: "Hohuror momycockoketot vovilollol dodu sos\u00e4tottota inon?"
+   5: "Doditottot nonuvovaroranondode sosaloldodo \u00e4ror:"
+   4: Utottotagog
+   9: "Etottot fofelol upoppopsostotodod vovidod hohanontoterorinongogenon avov dodinon bobegog\u00e4\
+      roranon."
+   8: Lologoggoga inon
+_Version: !ATMClient$Language
+   0: 2015120408
+_Useful: !ATMClient$Language
+   change_language: 16
+   press_any_key_to_continue: 17
+English: !ATMClient$Language
+   17: Press any key to continue
+   15: 'Please input your One-Time Password:'
+   16: Change language
+   13: 'Please input your card number:'
+   14: 'Please input your PIN number:'
+   11: Log out
+   12: You have been logged out
+   3: Deposit
+   2: Balance
+   1: Happy times at the bank! Capitalism, ho!
+   10: Insufficient funds
+   0: 
+   7: How much do you wish to withdraw?
+   6: How much do you wish to deposit?
+   5: 'Your current balance is:'
+   4: Withdraw
+   9: There was an error processing your request
+   8: Log in

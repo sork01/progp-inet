@@ -1,0 +1,44 @@
+
+Kommandon som klienten skickar till servern:
+
+| 8 bit uint  |
+  MENU_REQUEST
+
+| 8 bit uint | 8 bit uint | 32 bit uint | 16 bit uint |
+    ACTION     action_id       arg        transact_id
+
+| 8 bit uint | 32 bit uint |
+UPDATE_REQUEST   version
+
+Kommandon som servern skickar till klienten:
+
+| 8 bit uint     | 8 bit uint | 
+  MENU_NUM_ITEMS       n
+
+
+| 8 bit uint  | 8 bit uint | 8 bit uint | 8 bit uint | 8 bit uint |
+    MENU_ITEM     menutext_id   text_id     action_id     type 
+
+type (bitfield)
+    7   otp?
+    6   send uint32
+    5   receive uint32
+    4   request followup action
+    3   reserved
+    2   reserved
+    1   reserved
+    0   reserved
+
+| 8 bit msg_id | 16 bit uint |
+      OK         transact_id
+
+| 8 bit msg_id | 16 bit uint | 32 bit uint |
+      RESPONSE   transact_id    response
+
+| 8 bit msg_id | 16 bit uint | 8 bit uint |
+      FAIL       transact_id   errtext_id
+
+| 8 bit msg_id | 24 bit uint | numbytes * 8 bits yaml text |
+    UPDATE         numbytes            yaml
+
+

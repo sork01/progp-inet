@@ -1,0 +1,61 @@
+_Version: 2015120408
+_Useful:
+   change_language : 16
+   press_any_key_to_continue : 17
+English:
+   0: ""
+   1: "Happy times at the bank! Capitalism, ho!"
+   2: Balance
+   3: Deposit
+   4: Withdraw
+   5: "Your current balance is:"
+   6: How much do you wish to deposit?
+   7: How much do you wish to withdraw?
+   8: Log in
+   9: There was an error processing your request
+   10: Insufficient funds
+   11: Log out
+   12: You have been logged out
+   13: "Please input your card number:"
+   14: "Please input your PIN number:"
+   15: "Please input your One-Time Password:"
+   16: "Change language"
+   17: "Press any key to continue"
+Svenska:
+   0: ""
+   1: "Glada tider på banken! Kapitalismens häxmästare!"
+   2: Saldo
+   3: Insättning
+   4: Uttag
+   5: "Ditt nuvarande saldo är:"
+   6: Hur mycket vill du sätta in?
+   7: Hur mycket vill du ta ut?
+   8: Logga in
+   9: Ett fel uppstod vid hanteringen av din begäran.
+   10: Otillräckligt saldo
+   11: Logga ut
+   12: Du har loggats ut
+   13: "Mata in ditt kortnummer:"
+   14: "Mata in din PIN-kod:"
+   15: "Mata in din engångskod:"
+   16: "Byt språk"
+   17: "Tryck ned en tangent för att fortsätta"
+Rövarspråk:
+   0: ""
+   1: "Vovälolkokomommomenon totilollol bobanonkokenon"
+   2: Sosaloldodo
+   3: Inonsosätottotnoninongog
+   4: Utottotagog
+   5: "Doditottot nonuvovaroranondode sosaloldodo äror:"
+   6: Hohuror momycockoketot vovilollol dodu sosätottota inon?
+   7: Hohuror momycockoketot vovilollol dodu tota utot?
+   8: Lologoggoga inon
+   9: Etottot fofelol upoppopsostotodod vovidod hohanontoterorinongogenon avov dodinon bobegogäroranon.
+   10: Ototilollolroräcockokloligogtot sosaloldodo
+   11: Lologoggoga utot
+   12: Dodu hoharor lologoggogatotsos utot
+   13: "Momatota inon doditottot kokorortotnonumommomeror:"
+   14: "Momatota inon dodinon POPINON-kokodod:"
+   15: "Momatota inon dodinon enongogånongogsoskokodod:"
+   16: "Bobytot sospoproråkok"
+   17: "Totrorycockok nonedod enon totanongogenontot foföror atottot foforortotsosätottota"
